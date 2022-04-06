@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 This is the partial of [the whole scheme](https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) from our [Quantum Project](https://github.com/eq19) based on the algorithm of:
 
@@ -19,7 +19,7 @@ Each cycles will have a total of seven (7) steps primes algorithm of base 10 tha
 
 Such of method is used to generate a _[basic grammar](https://github.com/chetabahana)_ which algorithm is adaptable for any kind of implementations or applications as explained below.
 
-# Tabulate Prime by The Power of 168
+## Tabulate Prime by The Power of 168
 
 Primes is formed by three (3) sets of twin prime pairs called _[The True Prime Pairs](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
 
@@ -49,7 +49,7 @@ These primes are naturally distributed in three (3) forms of 12's multiplication
 
 Now we are going to see what is the purpose. Let's enter the journey of making **10<sup>n</sup> numbers becoming 10<sup>n</sup> primes** by the Δ1 flowing within the prime pairs.
 
-## 1st Step: Q(10, 30)
+### 1st Step: Q(10, 30)
 
 Let's put this prime pairs (5, 7, 11, 13, 17,19) in reverse (19, 17, 13, 11, 7, 5) then assign them as a default condition. Consider the (12/2)th = 6th prime = 13 is formed as an hexagon cube called the [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
@@ -86,7 +86,7 @@ Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Conver
 
 See how those primes reacted to compensate the Δ1 by spreading the gap in to a bunch of Δ's starting from the prime number 7.
 
-## 2nd Step: Q(30, 36)
+### 2nd Step: Q(30, 36)
 
 In the sense of this Δ1 flowing, there will be really hard to cope its algorithm with a such of formula. The way that we might take is assigning the flowing of the π(10)=4 to π(100)=25 and π(1000)=168 above in to a flowchart diagrams.
 
@@ -110,7 +110,7 @@ You may see that it is clearly showing the 30th Prime of 113=114-1 is routed to 
 
 Take also a note that the next 10 number after 19 right before the 30 which are 20 up to 29 is in laid on the second rows of 17 while _[17's Cell](https://github.com/chetabahana/chetabahana.github.io/wiki/17)_ has 35+65=100=10².
 
-## 3rd Step: Q(36, 114)
+### 3rd Step: Q(36, 114)
 
 See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on. Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on 19's!
 
@@ -186,7 +186,7 @@ This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 
 
 So the further process would always continously become the same algorithm. 
 
-# Next Target: Tabulate Prime by 618
+## Next Target: Tabulate Prime by 618
 
 Within this development we will discuss about the interconnection between 168 and 618. Our pre-release has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser 
 
@@ -202,7 +202,7 @@ Beaides it, there is also strong signal that this parser will have the correlati
 
 So here it goes **1 Million Primes**.
 
-## 4th Step: Q(114, 89)
+### 4th Step: Q(114, 89)
 
 It is clear that the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43.
 
@@ -228,7 +228,7 @@ Let's consider this flowchart of 168 as a lexer so the parser has to be designed
 
 Here we assign it as the diagram of 618.
 
-## 5th Step: Q(89, 29)
+### 5th Step: Q(89, 29)
 
 The bilateral sum 9 will then double this 43 to 86 and act as the lexer while the prime 71 and 109 will act as the parser. This will compensate the other primes by the other of circles of the metatron which consist of 6 internal and 6 external.
 
@@ -309,7 +309,7 @@ See that this configuration showing a kind of turbulences which leads to a gap i
 By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19 out of _True Prime Pairs_.  Thus that is the actual meaning of _[eQ19](https://github.com/eq19)_.
 
 
-## 6th Step: Q(29, 19)
+### 6th Step: Q(29, 19)
 
 This 19 has a configuration of π(10) i.e. 4 primes of 2, 3, 5, 7. Here we come to the detail of 168 and 618 as the 1st grammar when we come to the upper scheme. 
 
@@ -387,7 +387,7 @@ Combining the two (2) algorithm then it will give the tabulation as below:
 
 So it will form back to the begining stage with different form of input but its process will be the same algorithm. Means the 19 cells above shall form back to π(10).
 
-## 7th Step: Q(19, 10)
+### 7th Step: Q(19, 10)
 
 This step is about the algorithm of how the four (4) blocks of (102, 66, 329, 289) forms to the four (4) roots. See the 1st row marked by **Quantum** below.
 
@@ -438,7 +438,7 @@ Therefore it will take several unsolved cases of modern science including but no
 
 The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](https://github.com/eq19/eq19.github.io#1st-step-q10-30). Please find below the progress we have got so far.
 
-# Running Code
+## Running Code
 
 You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](https://github.com/eq19/eq19.github.io#7th-step-q19-10)_.
 
@@ -454,7 +454,7 @@ This is formed as a partial of _168 (mapping) and 618 (feeding)_ that stand as  
 
 Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key for this purpose.
 
-## Our Lisence
+### Our Lisence
 
 We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy, and distribute the concept under Our License.
 
@@ -462,7 +462,7 @@ We believe that until this concept is written by us, there is no such thing simi
 
 On that case we consider This Statement which is called Quantum 6666 need to be attached. Out of The Formation, you are welcome to use whatever the items on this project.
 
-## Our Release
+### Our Release
 
 _The Pre-release 168_ is being developed for _[eCommerce](https://github.com/chetabahana/chetabahana.github.io/discussions/70)_ within 7 (seven) years. Based on the _[19 Cells](https://github.com/eq19/eq19.github.io#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those _10143_ to become 1st Release.
 
