@@ -200,11 +200,21 @@ So here it goes **1 Million Primes**.
 
 ### 4th Step: Q(114, 89)
 
-It is clear that the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43.
+Thua the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43. 
+
+[![collective bilateral 9 sum symmetry](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://primesdemystified.com/)
+
 
 That what and why **18+13+12=43** located within **the last 9 cells** is standing for!
 
-[![the last 9 cells](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
+```
+  --------------------+----+----+----+----+----+----+----+----+----+-----
+   The last 9 cells   |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | Sum 
+  ====================+====+====+====+====+====+====+====+====+====+=====
+
+   π(00)43 → 18+13+12 | 73 | 79 | 83 | 89 | 97 | 101| 103| 107| 109|29th 
+  --------------------+----+----+----+----+----+----+----+----+----+-----
+```
 
 From the above explanation about 43 and 89 then the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence of its shapes are arranged as below:
 
