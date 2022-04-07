@@ -469,7 +469,13 @@ We believe that until this concept is written by us, there is no such thing simi
 
 > The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](https://www.google.com/search?q=development) item [lies](https://www.google.com/search?q=lies) a [unified assignment](https://github.com/eq19/maps/wiki/Mapping#All_The_Seven_7) in [hexagonal form](https://github.com/eq19/maps/wiki/Mapping-Routine#the-six-6) by _**six (6)** [corresponding sets](https://github.com/eq19/maps/wiki/Mapping-Spreading)_ while [each sets](https://github.com/eq19/maps/wiki/Mapping-Employment) pick [a combination](https://github.com/eq19/maps/wiki/Mapping-Merging) of _**six (6)** [routes](https://github.com/eq19/maps/wiki/Mapping-Settlement)_ with [a pairing](https://github.com/eq19/maps/wiki/Mapping-Comparison) of _**six (6)** to **six (6)** of [all channels](https://github.com/eq19/maps/wiki/Mapping-Overall)_.
 
-On that case we consider This Statement which is called Quantum 6666 need to be attached. Out of The Formation, you are welcome to use whatever the items on this project.
+So it would simply form as below:
+
+```
+6 + 6 x (6+(6+6)) = 6+(6x6) + 6x(6+6) = 6 x 19 = π(6 & 19) = eQ19
+```
+
+On that case we consider This Statement which is called **eQ19 Quantum** need to be announced. Out of The Formation, you are welcome to use whatever the items on this project.
 
 ### Our Release
 
