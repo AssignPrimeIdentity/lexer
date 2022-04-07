@@ -465,7 +465,7 @@ Please note that we are not implementing any kind of License Key on this project
 
 ### Our Lisence
 
-We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy, and distribute the concept under Our License.
+We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy, and distribute the concept under Our Statement:
 
 > The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](https://www.google.com/search?q=development) item [lies](https://www.google.com/search?q=lies) a [unified assignment](https://github.com/eq19/maps/wiki/Mapping#All_The_Seven_7) in [hexagonal form](https://github.com/eq19/maps/wiki/Mapping-Routine#the-six-6) by _**six (6)** [corresponding sets](https://github.com/eq19/maps/wiki/Mapping-Spreading)_ while [each sets](https://github.com/eq19/maps/wiki/Mapping-Employment) pick [a combination](https://github.com/eq19/maps/wiki/Mapping-Merging) of _**six (6)** [routes](https://github.com/eq19/maps/wiki/Mapping-Settlement)_ with [a pairing](https://github.com/eq19/maps/wiki/Mapping-Comparison) of _**six (6)** to **six (6)** of [all channels](https://github.com/eq19/maps/wiki/Mapping-Overall)_.
 
