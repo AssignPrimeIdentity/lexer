@@ -186,6 +186,10 @@ You may agree that all of this algorithm seems like a primes orchestra. By sourc
 
 [![Δ(19 vs 18)](https://user-images.githubusercontent.com/36441664/107478328-de69fe00-6bab-11eb-8d5f-7517c94b7299.png)](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg)
 
+> This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (including Gram points along the critical line (1/2+iζ) for real values of ζ from 0 to 50. The consecutive zeros have **50 red plot points** between each with zeros identified by magenta concentric rings (scaled to show the relative distance between their values of t) _(Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg))_.
+
+Now let's discuss about what is correlation between the power of 168 with this 50 plots.
+
 ## Next Target: Tabulate Prime by 618
 
 Within this development we will discuss about the interconnection between 168 and 618. Our pre-release has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser 
