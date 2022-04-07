@@ -311,7 +311,7 @@ See that this configuration showing a kind of turbulences which leads to a gap i
 [![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
 
-By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19 out of _True Prime Pairs_.  Thus that is the actual meaning of _[eQ19](https://github.com/eq19)_.
+By the configuration above then on the upper scheme the central of metatron will turn to seven (7) circles. So combine it with the other 12 circles they will forms as the 19 out of _True Prime Pairs_.  Thus that is the whole meaning of _[eQ19](https://github.com/eq19)_.
 
 
 ### 6th Step: Q(29, 19)
