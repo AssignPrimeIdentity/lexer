@@ -313,7 +313,7 @@ True Prime Vektors ζ(s):
 ----------------------+-----+                                                ---
 ```
 
-See that this configuration showing a kind of turbulences which leads to a gap in the central of **Metatron** where the replication is initiated by **Δ18 of 50(68)**. This scheme is taken as a basic algorithm for the mechanism of DNA generation from RNA.
+See that this configuration showing a kind of turbulences which leads to a gap in the central of _[Metatron](#1st-step-q10-30)_ where the replication is initiated by **Δ18 of 50(68)**. This scheme is taken as a basic algorithm for the mechanism of DNA generation from RNA.
 
 [![DNA generation from RNA](https://user-images.githubusercontent.com/36441664/100724943-01cb3c80-33f6-11eb-8564-c5a9ced2b668.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
