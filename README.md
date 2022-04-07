@@ -96,7 +96,9 @@ See that this flows starting from π(10) and finalize by pairing of Δ12. Let's 
 
 [![Flowchart](https://user-images.githubusercontent.com/36441664/103138547-5799b880-4706-11eb-8820-f51cbd57d367.png)](https://www.hexspin.com/defining-the-prime-hexagon/)
 
-This flowchart is designed base on the behaviour of the primes number that flows uniformly within an hexagon chart called _[The Prime Hexagon](https://www.hexspin.com/defining-the-prime-hexagon/)_. Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime.
+This flowchart is designed base on the behaviour of the primes number that flows uniformly within an hexagon chart called _The Prime Hexagon_ (Credit: hexspin.com).
+
+Here you might see that the number of 10 is the same direction with 19 while 10+19=29=10th prime.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/105412087-d0892300-5c66-11eb-9c3e-19d8652b478c.png)](https://github.com/eq19)
 
@@ -204,7 +206,7 @@ So here it goes **1 Million Primes**.
 
 ### 4th Step: Q(114, 89)
 
-Thus the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43. (Credit: https://primesdemystified.com)
+Thus the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43. (Credit: primesdemystified.com)
 
 [![collective bilateral 9 sum symmetry](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://primesdemystified.com/)
 
