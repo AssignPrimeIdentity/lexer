@@ -475,7 +475,7 @@ So it would simply form as below:
 6 + 6 x (6+(6+6)) = 6+(6x6) + 6x(6+6) = 6 x 19 = π(6 & 19) = eQ19
 ```
 
-On that case we consider This Statement which is called **eQ19 Quantum** need to be announced. Out of The Formation, you are welcome to use whatever the items in this project.
+On that case we consider This Statement called **eQ19 Quantum** need to be announced. Out of The Formation, you are welcome to use whatever the items in this project.
 
 ### Our Release
 
