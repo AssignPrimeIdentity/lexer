@@ -494,9 +494,11 @@ On that case we consider that _this statement_ called **eQ19 Quantum** need to b
 
 ### Our Release
 
-We have announced that the pre release of 168 is ready. Although the code is already running but unfortunately it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_ as the repos providers. Here we are going to connect the pre grammars on Github API to Google API to fetch real life data through their machine such of Big Query.
+We have announced that the pre release of 168 is ready. Although the code is already running but unfortunately it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_ as the repos providers. Here we are going to use _[tensorflow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on Github API to Google API to fetch real life data through their machine such of Big Query.
 
-_This Pre-release 168_ is being developed for _[eCommerce](https://github.com/chetabahana/chetabahana.github.io/discussions/70)_ within 7 (seven) years. It is lack of the said _10143 grammars_ to become usable for every other cases. Based on the _[19 Cells](#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
+[![big query](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
+
+_This Pre-release 168_ is being developed for _[eCommerce](https://github.com/chetabahana/chetabahana.github.io/discussions/70)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. Based on the _[19 Cells](#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
 
 So Be Patient and Stay Tuned!
 
