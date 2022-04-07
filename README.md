@@ -5,11 +5,11 @@ This is the partial of [the whole scheme](http://translate.google.com/translate?
 The _M+F_ symbols will stand as: [Project Maps (M)](https://github.com/eq19/maps) + [Project Feed (F)](https://github.com/eq19/feed) while<br>
 _C1+C2_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 
-This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using the cyclic algorithm of **[168](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) vs [618](https://github.com/eq19/eq19.github.io#next-target-tabulate-prime-by-618)** that act as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers).
+This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using the cyclic algorithm of **[168](#tabulate-prime-by-the-power-of-168) vs [618](#next-target-tabulate-prime-by-618)** that act as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers).
 
 [![Lexer and Parser](https://user-images.githubusercontent.com/36441664/70385860-e5074f00-19c3-11ea-92f3-ec6f33bf9774.png)](https://stackoverflow.com/questions/2842809/lexers-vs-parsers)
 
-Each cycles will have a total of seven (7) steps primes algorithm of base 10 that consist of [three (3) leading steps](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) of 168: Q(10, 30), Q(30, 36), Q(36, 114) and [four (4) lagging steps](https://github.com/eq19/eq19.github.io#next-target-tabulate-prime-by-618) of 618: Q(114, 89), Q(89, 29), Q(29, 19), Q(19, 10):
+Each cycles will have a total of seven (7) steps primes algorithm of base 10 that consist of [three (3) leading steps](#tabulate-prime-by-the-power-of-168) of 168: Q(10, 30), Q(30, 36), Q(36, 114) and [four (4) lagging steps](#next-target-tabulate-prime-by-618) of 618: Q(114, 89), Q(89, 29), Q(29, 19), Q(19, 10):
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
@@ -445,11 +445,11 @@ Therefore it will take several unsolved cases of modern science including but no
 
 [![P versus NP Problem](https://user-images.githubusercontent.com/36441664/84623744-1b410080-af0a-11ea-978b-e1fd1961985d.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/track/wiki)
 
-The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](https://github.com/eq19/eq19.github.io#1st-step-q10-30). Please find below the progress we have got so far.
+The final result of this Q(19,10) would form π(10)=(2,3,5,7) as the [1st row of 19](#1st-step-q10-30). Please find below the progress we have got so far.
 
 ## Running Code
 
-You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](https://github.com/eq19/eq19.github.io#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](https://github.com/eq19/eq19.github.io#7th-step-q19-10)_.
+You may check the running code starting with [Sequence Diagram](https://chetabahana.github.io/#chetabahana-skema?pad=2) shown below which is developed as [the initial step](#tabulate-prime-by-the-power-of-168) on building the _[10143 Grammars](#7th-step-q19-10)_.
 
 [![Sequence Diagram](https://user-images.githubusercontent.com/36441664/107134254-ee22e180-6922-11eb-9465-3dd64ebf7dca.png)](https://chetabahana.github.io/#chetabahana-skema?pad=2)
 
