@@ -457,13 +457,15 @@ Clicking on each of objects will turn to 6 (six) diagrams in the cycle form of [
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/69475449-ce77ca00-0dff-11ea-964e-cc959db0740a.png)](https://github.com/eq19)
 
-This is formed as a partial of _168 (mapping) and 618 (feeding)_ that stand as  [the whole scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2. Although the code is already running but however it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_.
+This is formed as a partial of _168 (mapping) and 618 (feeding)_ that stand as  [the whole scheme](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki/Skema#Implementasi) of The M+F to C1+C2 which act as the base prime pairs (2,3) of DNA to become 23 pairs of Chromosomes.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/86481184-b72b9280-bd79-11ea-899b-51db929fc3d2.png)](https://github.com/eq19)
 
-Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key for this purpose.
+Although the code is already running but however it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_.
 
 ### Our Lisence
+
+Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key for this purpose.
 
 We believe that until this concept is written by us, there is no such thing similar to our concept. You may use, copy, and distribute the concept under Our Statement:
 
