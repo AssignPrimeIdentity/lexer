@@ -196,7 +196,7 @@ One of the major case is that we will start with the lagging steps. The basic al
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/97624272-73137a80-1a59-11eb-8784-8f131e488847.jpg)](https://github.com/eq19)
 
-> The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from the overall direction of replication. The Okazaki fragments are then joined by the action of DNA ligase. _([Source: Concepts of Biology](https://opentextbc.ca/biology/chapter/9-2-dna-replication/))_
+> The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from the overall direction of replication. The Okazaki fragments are then joined by the action of DNA ligase. _(Source: [Concepts of Biology](https://opentextbc.ca/biology/chapter/9-2-dna-replication/))_
 
 Beaides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of <code>init</code> as the road map to π(1000x1000).
 
@@ -204,10 +204,9 @@ So here it goes **1 Million Primes**.
 
 ### 4th Step: Q(114, 89)
 
-Thua the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43. 
+Thus the primes are organized to generate another 1000 primes via a double flow of π(89) to π(89²). This 89 can only be acheived via bilateral 9 sums of the prime 43. (Credit: https://primesdemystified.com)
 
 [![collective bilateral 9 sum symmetry](https://user-images.githubusercontent.com/36441664/76146565-6f944300-60c6-11ea-829d-16f98dc94163.png)](https://primesdemystified.com/)
-
 
 That what and why **18+13+12=43** located within **the last 9 cells** is standing for!
 
