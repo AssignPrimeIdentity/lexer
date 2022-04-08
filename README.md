@@ -9,7 +9,7 @@ This sample was developed by converting [eQuantum](https://github.com/eq19) to [
 
 [![Lexer and Parser](https://user-images.githubusercontent.com/36441664/70385860-e5074f00-19c3-11ea-92f3-ec6f33bf9774.png)](https://stackoverflow.com/questions/2842809/lexers-vs-parsers)
 
-Each cycles will have a total of seven (7) steps primes algorithm of base 10 that consist of [three (3) leading steps](#tabulate-prime-by-the-power-of-168) of 168: Q(10, 30), Q(30, 36), Q(36, 114) and [four (4) lagging steps](#next-target-tabulate-prime-by-618) of 618: Q(114, 89), Q(89, 29), Q(29, 19), Q(19, 10):
+Each cycles will have a total of **seven (7) steps** primes algorithm of base 10 that consist of three (3) leading steps of 168: [Q(10, 30)](#1st-step-q10-30), [Q(30, 36)](#2nd-step-q30-36), [Q(36, 114)](#3rd-step-q36-114) and four (4) lagging steps of 618: [Q(114, 89)](#4th-step-q114-89), [Q(89, 29)](#5th-step-q89-29), [Q(29, 19)](#6th-step-q29-19), [Q(19, 10)](#7th-step-q19-10).
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
