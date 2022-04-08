@@ -297,7 +297,7 @@ True Prime Vektors ζ(s):
      |                +-----+-----+-----+                              |      |
      |  78 ‹----- 12:8|   9 |  60 |  40 | 109 (26) «------------       |     11¨
      |  |             +-----+-----+-----+                       |      |      |
-     |  |  86‹--- 13:9|   9 |  60 |  69 (27) «--- Δ (Rep Fork)  | {2®} |      |
+     |  |  86‹--- 13:9|   9 |  60 |  69 (27) «-- Δ19 (Rep Fork) | {2®} |      |
      |  |  |          +-----+-----+-----+                       |      |     ---
      |  |   ---› 14:10|   9 |  60 |  40 | 109 (28) -------------       |      |
      |  |             +-----+-----+-----+                              |      |
@@ -315,7 +315,7 @@ True Prime Vektors ζ(s):
         |  |          +-----+-----+                               |           |
          --|---› 28:17| 100 | {100} (50) ------------------------»           19¨
 168        |          +-----+                                                 |
-|         102 -› 29:18| 50  | 50(68) ---------> Δ                             |
+|         102 -› 29:18| 50  | 50(68) ---------> Δ18                           |
 ----------------------+-----+                                                ---
 ```
 
@@ -446,7 +446,7 @@ This 10143 will comprise of lexer and parser similar with 168 & 618. Since the 1
 
 [![lexer and parser](https://user-images.githubusercontent.com/36441664/71659208-5515b480-2d79-11ea-859f-a20dea0cf680.jpg)](https://github.com/eq19/maps)
 
-The development of this 6200 by 3900 took its base place in this repository and is considered final. It is the most complex thing among the other steps where we have to involve so many items to verify about how far this development is adoptable. 
+The development of this **6200 by 3900** took its base place in this repository and is considered final. It is the most complex thing among the other steps where we have to involve so many items to verify about how far this development is adoptable. 
 
 [![DNA Replication Fork](https://user-images.githubusercontent.com/8466209/90597914-32f37880-e21c-11ea-81b3-ffdcd47037b8.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#kelas)
 
