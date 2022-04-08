@@ -228,7 +228,7 @@ That what and why **18+13+12=43** located within **the last 9 cells** is standin
   --------------------+----+----+----+----+----+----+----+----+----+-----
 ```
 
-From the above explanation about 43 and 89 then the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence of its shapes are arranged as below:
+See that in _[6th row](#3rd-step-q36-114)_ that assigned as overall direction the tabulation of prime hexagon has the biggest numbers involved among the other rows which is 9 (nine). You may see that it simply act as the bilateral 9 sums of 43 and 89. Therefore the prime flow in the developed flowchart above should take a connection to form between them two. This is the reason why the sequence of its shapes are arranged as below:
 
 [![the sequence](https://user-images.githubusercontent.com/36441664/103147412-5492dc80-4787-11eb-8277-4fa39ce28c90.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
