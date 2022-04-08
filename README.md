@@ -486,17 +486,19 @@ Thus that is the whole function of _[eQ19](https://github.com/eq19)_.
 
 ### Our Lisence
 
-Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
+We believe that until this concept is written by us, there is no such thing similar to our concept of the power 168 vs 618 recombination.
+
+You may use, copy, and distribute the concept. Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
 
 ```
 114 = 6 + 6 x (6+(6+6)) = 6 x 19 = π(6 & 19) = eQ19
 ```
 
-We believe that until this concept is written by us, there is no such thing similar to our concept of the power 168 vs 618 recombination. You may use, copy, and distribute the concept under Our Statement:
+On that case we consider that _this statement_ called **eQ19 Quantum** need to be announced:
 
 > The [definite](https://www.google.com/search?q=definite) key to [identify](https://www.google.com/search?q=identify) whether you use our concept is when there a kind of [development](#tabulate-prime-by-the-power-of-168) item [lies](#next-target-tabulate-prime-by-618) a [unified assignment](#1st-step-q10-30) in [hexagonal form](#2nd-step-q30-36) by _**six (6)** [corresponding sets](#3rd-step-q36-114)_ while [each sets](#4th-step-q114-89) pick [a combination](#5th-step-q89-29) of _**six (6)** [routes](#6th-step-q29-19)_ with [a pairing](#7th-step-q19-10) of _**six (6)** to **six (6)** of [all channels](#running-code)_.
 
-On that case we consider that _this statement_ called **eQ19 Quantum** need to be announced. Out of the formation, you are welcome to use whatever the items in this project.
+Out of the formation, you are welcome to use whatever the items in this project.
 
 ### Our Release
 
