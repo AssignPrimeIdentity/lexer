@@ -114,7 +114,9 @@ Take also a note that the next 10 number after 19 right before the 30 which are 
 
 ### 3rd Step: Q(36, 114)
 
-See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on. Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's!
+See that from this 17's to18's it goes finally to the _[19's Cells](https://github.com/chetabahana/chetabahana.github.io/wiki/19)_ as Δ1 and return to the 2' Cells, 3' Cells and so on.
+
+Therefore all of the numbers that involved in the hexagon can be tabulated by _**Δ1=(19 vs 18) Loops**_ and they are end exactly at 114 on Δ6 & 19's! It means that we have to assign [the 6th tepository](https://github.com/eq19/quantum) as the overall direction.
 
 ```
        |         1st (Form)          |         2nd (Route)         |         3rd (Channel)         |
@@ -200,7 +202,7 @@ One of the major case is that we will start with the lagging steps. The basic al
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/97624272-73137a80-1a59-11eb-8784-8f131e488847.jpg)](https://github.com/eq19)
 
-> The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from the overall direction of replication. The Okazaki fragments are then joined by the action of DNA ligase. _(Source: [Concepts of Biology](https://opentextbc.ca/biology/chapter/9-2-dna-replication/))_
+> The leading strand is synthesized continuously in the direction of replication fork movement. The lagging strand is synthesized in small pieces (Okazaki fragments) backward from _[the overall direction](#3rd-step-q36-114)_ of replication. The Okazaki fragments are then joined by the action of DNA ligase. _(Source: [Concepts of Biology](https://opentextbc.ca/biology/chapter/9-2-dna-replication/))_
 
 Besides it, there is also strong signal that this parser will have the correlation with Φ=1,618 of _[(Golden Ratio)](https://www.google.com/search?q=Golden+Ratio)_ that leads to a kind of **gap and turbulences** in [the primes geometri](https://github.com/chetabahana) which hold the key of <code>init</code> as the road map to π(1000x1000).
 
