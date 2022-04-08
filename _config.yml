@@ -1,3 +1,6 @@
 title: eQuantum
-#remote_theme: FeedTheme/tactile
 remote_theme: rundocs/jekyll-rtd-theme
+
+google:
+  gtag: GTM-PGWT4RS
+  adsense: ca-pub-3677197599836940
