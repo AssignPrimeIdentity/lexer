@@ -508,7 +508,7 @@ We have announced that _[The Pre-release 168](https://github.com/chetabahana/che
 
 [![big query](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
 
-This pre-release is being developed for _[eCommerce](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. Based on the _[19 Cells](#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
+This pre-release is being developed for _[eBranding](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. Based on the _[19 Cells](#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
 
 So Be Patient and Stay Tuned!
 
