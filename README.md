@@ -13,7 +13,7 @@ Each cycles will have a total of **seven (7) steps** primes algorithm of base 10
 
 [![eQuantum Project](https://user-images.githubusercontent.com/36441664/162069734-fc8036a1-fd2d-4fc9-bcad-f677388b76fa.jpg)](https://github.com/eq19/maps)
 
-Such of method is used to generate a _[basic grammar](https://github.com/chetabahana)_ which algorithm is adaptable for any kind of implementations or applications as explained below.
+Such of method is used to generate a _[Basic Grammar](#running-code)_ which algorithm is adaptable for any kind of implementations or applications as explained below.
 
 ## Tabulate Prime by The Power of 168
 
@@ -508,7 +508,7 @@ We have announced that _[The Pre-release 168](https://github.com/chetabahana/che
 
 [![big query](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
 
-This pre-release is being developed for _[eCommerce](https://github.com/chetabahana/chetabahana.github.io/discussions/70)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. Based on the _[19 Cells](#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
+This pre-release is being developed for _[eCommerce](https://github.com/chetabahana)_ within 7 (seven) years. It is lack the parser 618 of the said _10143 grammars_ to become usable for every other cases. Based on the _[19 Cells](#6th-step-q29-19)_ of 168 vs 618 tabulation then for the 618 it might need another 12 (twelve) years to develope those grammars to become 1st Release.
 
 So Be Patient and Stay Tuned!
 
