@@ -182,7 +182,9 @@ See that out of 19 the number 89 is located precissely at the of Δ11 within the
 - The Δ18 brings the 30th and 36th cycled back to 102th thus consequently it goes to the 114th prime
 - The 114th prime which is carrying the loop(1000) is reinjected by 619-1 or 618 on the same spot.
 
-This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 Primes_. Thus its behaviour will return to _168 Primes of π(1000)_  out of the adjacent scheme. So the further process would always continously become the same algorithm. 
+This Δ(19 vs 18) scenario will duplicate the loops of 618 as _π(89²) of 1000 Primes_. Thus its behaviour will return to _168 Primes of π(1000)_  out of the adjacent scheme. 
+
+So the further process would always continously become the same algorithm. 
 
 You may agree that all of this algorithm seems like a primes orchestra. By sourcing and studying of many [references](https://github-com.translate.goog/chetabahana/chetabahana.github.io/wiki/%23?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en-US), the closest behaviour of the crossing on above primes flowing is found with the wave shown on _**Δ1=(19 vs 18) Loops**_  as below.
 
