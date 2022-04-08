@@ -236,7 +236,7 @@ Therefore the 30th primes will bear the responsibility to generate the prime 43 
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/107818705-98c75400-6daa-11eb-8138-d6da7ceef4fd.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
-This should have a delta of Δ18 to the last number which is 168 where this 168 is exactly π(1000). So it would take place on the 150 and the scheme there will consequently be the perfect square of 1000 or 1 Million.
+This should have a delta of Δ18 to the last number which is 168 where this 168 is exactly π(1000). So it would take place on the 150 and the scheme there will consequently be **the perfect square of 1000** or 1 Million.
 
 [![delta of Δ18](https://user-images.githubusercontent.com/36441664/107850441-06b85d80-6e35-11eb-8787-b947d7c60c2e.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
