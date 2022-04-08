@@ -53,7 +53,7 @@ Now we are going to see what is the purpose. Let's enter the journey of making *
 
 Let's put this prime pairs (5, 7, 11, 13, 17,19) in reverse (19, 17, 13, 11, 7, 5) then assign them as a default condition. Consider the (12/2)th = 6th prime = 13 is formed as an hexagon cube called the [Metatron's Cube](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch). 
 
-[![LMetatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron&tbm=isch)
+[![LMetatron's Cube](https://user-images.githubusercontent.com/36441664/74094157-4e642500-4b0f-11ea-89b4-eb8cd7d90411.png)](https://www.google.com/search?q=metatron%27s+cubes&tbm=isch)
 
 Then assign 19 as a set of 10 numbers that consist of 4 primes (2,3,5,7). Convert them to 10 primes up to 10th prime=29 then to 29 primes up to of (10th)th=29th prime=109. Now let's put Δ1 to 13 as the central of Metraton. 
 
