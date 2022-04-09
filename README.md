@@ -251,7 +251,7 @@ Let's consider this flowchart of 168 as a lexer so the parser has to be designed
 
 [![delta of Δ18](https://user-images.githubusercontent.com/36441664/107083678-9607b480-6828-11eb-9cdf-cfdfc4f6face.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki/Programming)
 
-Here we assign it as the diagram of 618.
+Here we assign it as the diagram of 618. On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser.
 
 ### 5th Step: Q(89, 29)
 
@@ -364,11 +364,11 @@ Let's take the end number each of the three (3) pairs in to an adjacent [polygon
 
 > We see that the polygonal numbers in the same column all have the same difference, and this difference is always a triangular number. For example, the fifth pentagonal number (35) has 10 dots more than the fifth square number (25) and 10 dots fewer than the fifth hexagonal number (45), and the difference 10 is just the fourth triangular number. _(Source: [Discovering Properties of Numbers](https://schoolbag.info/mathematics/numbers/38.html))_.
 
-On [the next target](https://github.com/chetabahana/chetabahana.github.io/discussions/categories/announcements) we will discuss about 1000/Φ = 618 = 619-1 = 114th prime - 1 as a lexer and parser shown below: 
+See the _[(19 vs 18) Loops](#3rd-step-q36-114)_ more closely, you can find that the number 102 is exactly laid on 18th row by the 15th spin out of 19 whereas 102+66 = 168 = π(1000). 
 
 [![the next target](https://user-images.githubusercontent.com/36441664/110807586-c58d5f00-82b5-11eb-81e2-dbde7d628b37.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
-See the _[(19 vs 18) Loops](#3rd-step-q36-114)_ more closely, you can find that the number 102 is exactly laid on 18th row by the 15th spin out of 19 whereas 102+66 = 168 = π(1000). So combining the two (2) algorithm then they will form the tabulation as below:
+Combining the two (2) algorithms then they will form the tabulation as below:
 
 ```
  Scheme:
