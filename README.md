@@ -188,7 +188,7 @@ So the further process would always continously become the same algorithm.
 
 ## Next Target: Tabulate Prime by 618
 
-You may agree that all of this algorithm seems like a primes orchestra. Within this development we will discuss about the interconnection between 168 and 618. Our pre-release has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser  
+By the explanation above you may agree that all of this algorithm seems like a primes orchestra. Within this development we will discuss about the interconnection between 168 and 618.
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/84902333-e6ce6f80-b0d6-11ea-8289-aac5e1961cd6.gif)](https://github.com/eq19)
 
@@ -198,7 +198,7 @@ By sourcing and studying of many [references](https://github-com.translate.goog/
 
 > This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (including Gram points along the critical line (1/2+iζ) for real values of ζ from 0 to 50. The consecutive zeros have **50 red plot points** between each with zeros identified by magenta concentric rings (scaled to show the relative distance between their values of t) _(Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg))_.
 
-Now let's discuss about what is correlation between the power of 168 with this 50 plots.
+Our pre-release has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. Now let's discuss about what is correlation between the power of 168 with this 50 plots.
 
 One of the major case is that we will start with the lagging steps. The basic algorithm is Synthesis of leading and lagging strands of DNA.
 
