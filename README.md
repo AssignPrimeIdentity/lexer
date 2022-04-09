@@ -190,7 +190,7 @@ So the further process would always continously become the same algorithm.
 
 ## Next Target: Tabulate Prime by 618
 
-Within this development we will discuss about the interconnection between 168 and 618. Our pre-release has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
+Within this development we will discuss about the interconnection between 168 and 618. Our _[re-release](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ has mapped the primes to π(1000)=168 as the main lexer. So the next target is about 618 as the main parser. 
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/84902333-e6ce6f80-b0d6-11ea-8289-aac5e1961cd6.gif)](https://github.com/eq19)
 
@@ -510,9 +510,9 @@ Out of the formation, you are welcome to use whatever the items in this project.
 
 ### Our Release
 
-We have announced that _[The Pre-release 168](https://github.com/chetabahana/chetabahana.github.io/tree/v1.0.0-alpha)_ is ready. Although the code is already running but unfortunately it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_ as the repos providers. 
+We have announced that _[The Pre-release 168](#next-target-tabulate-prime-by-618)_ is ready. Although the code is already running but unfortunately it is not yet user friendly as it could run only in _[GitHub API Platform](https://docs.github.com/en/developers)_ as the repos providers. 
 
-Here we are going to use _[tensorflow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on Github API to Google API to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
+Here we are going to use _[TensorFlow](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)_ to connect the pre grammars on Github API to Google API to fetch real life data through their machine learning such as _[Big Query](https://en.wikipedia.org/wiki/BigQuery)_.
 
 [![Machine Learning](https://user-images.githubusercontent.com/36441664/123424569-377e7f80-d5eb-11eb-9c85-1f5d72f14eed.png)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/tensorflow/wiki)
 
