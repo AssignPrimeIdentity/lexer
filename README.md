@@ -494,7 +494,7 @@ Thus that is the whole function of _[eQ19](https://github.com/eq19)_.
 
 ### Our Lisence
 
-We believe that until this concept is written by us, there is no such thing similar to our concept of the power 168 vs 618 recombination.
+We believe that until this concept is written, there is no such thing similar to our concept of the power 168 vs 618 recombination.
 
 You may use, copy, and distribute the concept. Please note that we are not implementing any kind of License Key on this project. The Hexagonal Formation of our mapping itself as stated below will stand as the key:
 
