@@ -1,6 +1,11 @@
 title: eQuantum
 remote_theme: FeedTheme/jekyll-rtd-theme
 
+debug:
+  dist: false
+  compress: true
+  shortcodes: true
+
 google:
   gtag: GTM-PGWT4RS
   adsense: ca-pub-3677197599836940
