@@ -4,7 +4,7 @@ This is the partial of [the mapping scheme](http://translate.google.com/translat
 
 [![eQ19 Project](https://user-images.githubusercontent.com/36441664/88602920-fd84c080-d09d-11ea-970d-dd63c12221fc.png)](https://eq19.github.io/)
 
-The _M+F_ symbol stands as: [Project Maps (M)](https://github.com/eq19/maps) + [Project Feed (F)](https://github.com/eq19/feed) while<br>
+The _M+F_ symbol will stand as: [Project Maps (M)](https://github.com/eq19/maps) + [Project Feed (F)](https://github.com/eq19/feed) while<br>
 _C1+C2_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 
 This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using the cyclic algorithm of **[168](#tabulate-prime-by-the-power-of-168) vs [618](#next-target-tabulate-prime-by-618)** as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers).
