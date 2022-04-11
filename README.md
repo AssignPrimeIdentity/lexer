@@ -19,7 +19,7 @@ Such of method is used to generate a _[Basic Grammar](#running-code)_ which algo
 
 ## Tabulate Prime by The Power of 168
 
-Primes is formed by three (3) sets of twin prime pairs called _[The True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
+The Primes is formed by three (3) sets of twin prime pairs called _[True Prime Pairs](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)_. 
 
 [![The True Prime Pairs](https://user-images.githubusercontent.com/36441664/90720864-ab703d00-e2e1-11ea-99c5-70405c78b6e0.jpg)](http://translate.google.com/translate?js=n&sl=id&tl=en&u=https://github.com/chetabahana/chetabahana.github.io/wiki#operasi)
 
