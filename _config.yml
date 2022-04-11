@@ -1,5 +1,4 @@
 title: eQuantum
-remote_theme: FeedTheme/jekyll-rtd-theme
 
 debug:
   dist: false
@@ -9,3 +8,5 @@ debug:
 google:
   gtag: GTM-PGWT4RS
   adsense: ca-pub-3677197599836940
+
+remote_theme: FeedTheme/jekyll-rtd-theme
