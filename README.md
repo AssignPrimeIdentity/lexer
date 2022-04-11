@@ -7,7 +7,7 @@ This is the partial of [the mapping scheme](http://translate.google.com/translat
 The _**M+F**_ symbol will stand as: [Project Maps (M)](https://github.com/eq19/maps) + [Project Feed (F)](https://github.com/eq19/feed) while<br>
 _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 
-This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using the cyclic algorithm of **[168](#tabulate-prime-by-the-power-of-168) vs [618](#next-target-tabulate-prime-by-618)** as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers).
+This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers). Let's call them as the power of **[168](#tabulate-prime-by-the-power-of-168)** vs **[618](#next-target-tabulate-prime-by-618)**
 
 [![Lexer and Parser](https://user-images.githubusercontent.com/36441664/70385860-e5074f00-19c3-11ea-92f3-ec6f33bf9774.png)](https://stackoverflow.com/questions/2842809/lexers-vs-parsers)
 
