@@ -7,9 +7,18 @@ This's the partial of [the mapping scheme](http://translate.google.com/translate
 The _**M+F**_ symbol will stand as: [Project Maps (M)](https://github.com/eq19/maps) + [Project Feed (F)](https://github.com/eq19/feed) while<br>
 _**C1+C2**_ as implementations, see sample: [Project Base (C1)](https://chetabahana.github.io/) + [Project Core (C2)](https://chetabahana.com/).
 
-This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers). Let's call them as the power of **[168](#tabulate-prime-by-the-power-of-168)** vs **[618](#next-target-tabulate-prime-by-618)**
+This sample was developed by converting [eQuantum](https://github.com/eq19) to [eCommerce](https://github.com/MarketLeader) using two (2) kinds of cyclic algorithm that act as [Lexer and Parser](https://stackoverflow.com/questions/2842809/lexers-vs-parsers).
 
 [![Lexer and Parser](https://user-images.githubusercontent.com/36441664/70385860-e5074f00-19c3-11ea-92f3-ec6f33bf9774.png)](https://stackoverflow.com/questions/2842809/lexers-vs-parsers)
+
+They will work base on the correlation between 168=π(1000) and 618=1000/Φ. So let's call them as the power of **[168](#tabulate-prime-by-the-power-of-168)** vs **[618](#next-target-tabulate-prime-by-618)**.
+
+```
+1000 = 10³ (Triple Ten)
+π(1000) = 168 (Basic Primes)
+Φ = 1000/618 = 1,618 (Golden Ratio) 
+Δ(1,6,18) = 61+28 = 89 (Mersenne Primes) 
+```
 
 Each cycles will have a total of seven (7) steps **prime algorithm** on base 10 that consist of three (3) leading steps by the power of 168: [Q(10, 30)](#1st-step-q10-30), [Q(30, 36)](#2nd-step-q30-36), [Q(36, 114)](#3rd-step-q36-114) and four (4) lagging steps by the power of 618: [Q(114, 89)](#4th-step-q114-89), [Q(89, 29)](#5th-step-q89-29), [Q(29, 19)](#6th-step-q29-19), [Q(19, 10)](#7th-step-q19-10).
 
