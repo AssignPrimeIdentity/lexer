@@ -205,7 +205,7 @@ Within this development we will discuss about the interconnection between 168 an
 
 [![generate the prime](https://user-images.githubusercontent.com/36441664/84902333-e6ce6f80-b0d6-11ea-8289-aac5e1961cd6.gif)](https://github.com/eq19)
 
-By the explanation above you may agree that all of this algorithm seems like a primes orchestra. By sourcing and studying of many [references](https://github-com.translate.goog/chetabahana/chetabahana.github.io/wiki/%23?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en-US), the closest behaviour of the crossing on above primes flowing is found with the wave shown on _**Δ1=(19 vs 18) Loops**_  as below.
+By sourcing and studying of many [references](https://github-com.translate.goog/chetabahana/chetabahana.github.io/wiki/%23?_x_tr_sl=id&_x_tr_tl=en&_x_tr_hl=en-US), you may agree that the closest behaviour of the crossing on above primes flowing is found with the wave shown on _**Δ1=(19 vs 18) Loops**_  as below.
 
 [![Δ(19 vs 18)](https://user-images.githubusercontent.com/36441664/107478328-de69fe00-6bab-11eb-8d5f-7517c94b7299.png)](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg)
 
