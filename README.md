@@ -211,7 +211,7 @@ By sourcing and studying of many [references](https://github-com.translate.goog/
 
 > This is a polar plot of the first 20 non-trivial Riemann zeta function zeros (including Gram points along the critical line (1/2+iζ) for real values of ζ from 0 to 50. The consecutive zeros have **50 red plot points** between each with zeros identified by magenta concentric rings (scaled to show the relative distance between their values of t) _(Source: [Wikipedia](https://commons.wikimedia.org/wiki/File:RiemannZeta_Zeros.svg))_.
 
-Now let's discuss first about what is correlation between the power of 168 with this 50 plots.
+Now let's discuss first if this 50 plots has something to do with the prime algorithms.
 
 One of the major case is that we will start with the lagging steps. The basic algorithm is Synthesis of leading and lagging strands of DNA.
 
