@@ -8,8 +8,8 @@ debug:
 readme_index:
   with_frontmatter: true
 
+remote_theme: eQ19/parser
+
 google:
   gtag: GTM-PGWT4RS
   adsense: ca-pub-3677197599836940
-
-remote_theme: eQ19/parser
