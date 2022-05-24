@@ -5,6 +5,9 @@ debug:
   compress: true
   shortcodes: true
 
+readme_index:
+  with_frontmatter: true
+
 google:
   gtag: GTM-PGWT4RS
   adsense: ca-pub-3677197599836940
