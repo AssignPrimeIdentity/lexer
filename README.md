@@ -1,6 +1,6 @@
 jekyll-gist
 
-{% gist 25572d8d8fc7cdc25f4e9a3012db9287 %}
+{% gist 9a405dae5c2ca02a53f865b2cf8fe5fd %}
 
 ![pyramyd](https://user-images.githubusercontent.com/36441664/163196031-b29f162d-c9af-4dc4-b25c-9256127a4aa4.jpg)
 
