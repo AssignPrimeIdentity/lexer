@@ -25,7 +25,9 @@
   12+13+(18+18)+13+12  ← 36th-Δ1=151-1=150=100+2x(13+12)  ←  30th = 113 = 114-1
 ```
 
-![10 primes](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)
+![pyramyd](https://user-images.githubusercontent.com/36441664/163196031-b29f162d-c9af-4dc4-b25c-9256127a4aa4.jpg)
+
+![in-out](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)
 
 *114th prime = 619 = 6 & 19 » 6 x 19 = 6 x (1+6+(6+6)) = 6 + 36 + 72 = 42 + 72 = 114*
 
