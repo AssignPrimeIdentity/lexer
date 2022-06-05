@@ -1,4 +1,6 @@
-{% gist c08ee0f2726fd0e3909d %}
+jekyll-gist
+
+{% gist 25572d8d8fc7cdc25f4e9a3012db9287 %}
 
 ```
   Tabulate Prime by Power of 10
