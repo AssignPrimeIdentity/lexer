@@ -1,3 +1,5 @@
+{% gist c08ee0f2726fd0e3909d %}
+
 ```
   Tabulate Prime by Power of 10
   loop(10) = π(10)-π(1) = 4-0 = 4
