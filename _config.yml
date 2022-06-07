@@ -20,8 +20,8 @@ form_engines:
 
 debug:
   dist: false
-  compress: true
-  shortcodes: true
+  compress: false
+  shortcodes: false
 
 # Repository Settings
 # https://blog.webjeda.com/jekyll-redirect/
@@ -61,11 +61,11 @@ exclude:
   - webpack.config.js
   - jekyll-rtd-theme.gemspec
 
+theme: null
 encoding: utf-8
 livereload: true
 limit_posts: 1000
 timezone: Asia/Jakarta
-remote_theme: eQ19/parser
 collections_dir: docs/assets
 excerpt_separator: <!--end_excerpt-->
 
@@ -108,12 +108,6 @@ defaults:
       type: "feeds"
     values:
       layout: "feeds"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "lexer"
   -
     scope:
       path: ""
@@ -174,12 +168,12 @@ kramdown:
 
 google:
   gtag: GTM-PGWT4RS
-  adsense: ca-pub-3677197599836940
-
+  #adsense: ca-pub-3677197599836940
 webrick:
   headers:
     Content-Security-Policy: default-src 'none'; script-src 'self'; connect-src 'self'; img-src 'self'; style-src 'self';
-#   My-Other-Header: My-Other-Value
+    #My-Other-Header: My-Other-Value
+#sumo: 2b0c75104f236f75954a2d200c80651a1ebf311e7f2c868ac12d7284ecd4fbd4
 
 # Tags Setting
 # http://codinfox.github.io/blog/tags/
