@@ -1,0 +1,6 @@
+[submodule "docs/modul/maps"]
+	path = docs/modul/maps
+	url = https://github.com/eq19/maps
+[submodule "docs/modul/feed"]
+	path = docs/modul/feed
+	url = https://github.com/eq19/feed
