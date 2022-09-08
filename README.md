@@ -1,5 +1,3 @@
-{% gist 9a405dae5c2ca02a53f865b2cf8fe5fd %}
-
 *114th prime = 619 = 6 & 19 » 6 x 19 = 6 x (1+6+(6+6)) = 6 + 36 + 72 = 42 + 72 = 114*
 
 ![in-out](https://user-images.githubusercontent.com/8466209/90985852-ca542500-e5a8-11ea-9027-9bfdcbe37966.jpg)
