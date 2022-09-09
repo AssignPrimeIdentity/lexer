@@ -5,3 +5,4 @@
 ![pyramyd](https://user-images.githubusercontent.com/36441664/163196031-b29f162d-c9af-4dc4-b25c-9256127a4aa4.jpg)
 
 ![10 primes](https://user-images.githubusercontent.com/36441664/85206005-39af5d80-b349-11ea-851a-56309342b53f.png)
+
