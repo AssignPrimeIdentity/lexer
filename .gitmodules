@@ -4,6 +4,3 @@
 [submodule "docs/modul/feed"]
 	path = docs/modul/feed
 	url = https://github.com/eq19/feed
-[submodule "docs/modules/grammar"]
-	path = docs/modules/grammar
-	url = https://github.com/eq19/grammar
